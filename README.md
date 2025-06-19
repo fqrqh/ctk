@@ -7,8 +7,11 @@ CustomTkinter is a python UI-library based on Tkinter, which provides new, moder
 ![Sans titre](https://github.com/user-attachments/assets/55ab2044-e24c-40b3-a9bb-73abcc0092fa)
 
 
-# Installation VIewMapCTK
+# Installation CTK
 
 installé pip avec le module
 
 **pip3 install customtkinter**
+
+
+# Documentation
